@@ -17,6 +17,19 @@
 
 - [Tutoriel React-Redux](https://github.com/gaetan-varlet/tutoriel-react-redux)
 
+- [Tutoriel Java](https://github.com/gaetan-varlet/tutoriel-java)
+
+- [Tutoriel Java EE](https://github.com/gaetan-varlet/tutoriel-javaee)
+
+- [Tutoriel Python (TODO)](https://github.com/gaetan-varlet/tutoriel-python)
+
+- [Tutoriel SQL](https://github.com/gaetan-varlet/tutoriel-sql)
+
+- [Tutoriel Git](https://github.com/gaetan-varlet/tutoriel-git)
+
+- [Tutoriel Linux](https://github.com/gaetan-varlet/tutoriel-linux)
+
+
 - Formation API Rest
     - [Dépôt](https://github.com/gaetan-varlet/formation-webservices)
     - [Diaporama](https://gaetan-varlet.github.io/formation-webservices)
@@ -32,3 +45,4 @@
 
 - [Fiche pour l'examen d'analyste développeur](https://github.com/gaetan-varlet/analyste-developpeur)
 - [Fiche pour le concours d'Attaché Principal](https://github.com/gaetan-varlet/attache-principal)
+- [Intégration continue Gitlab](https://github.com/gaetan-varlet/integration-continue-gitlab)
