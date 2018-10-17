@@ -3,12 +3,16 @@
 
 ## Tutoriels
 
-- [Tutoriel HTML CSS](https://github.com/gaetan-varlet/tutoriel-html-css)
-    - fiches
+- Tutoriel HTML CSS
+    - [fiches](https://github.com/gaetan-varlet/tutoriel-html-css)
     - exercice de création d'une page d'accueil d'une agence de voyage
-- [Tutoriel JavaScript](https://github.com/gaetan-varlet/tutoriel-javascript)
-    - fiches
+        - [dépôt](https://github.com/gaetan-varlet/exercice-html-travel-agency)
+        - [page](https://gaetan-varlet.github.io/exercice-html-travel-agency/)
+
+- Tutoriel JavaScript
+    - [fiches](https://github.com/gaetan-varlet/tutoriel-javascript)
     - exercices de création du jeu du snake
+    
 - [Tutoriel React-Redux](https://github.com/gaetan-varlet/tutoriel-react-redux)
 
 - [Formation API Rest](https://gaetan-varlet.github.io/formation-webservices)
