@@ -7,16 +7,19 @@
     - [fiches](https://github.com/gaetan-varlet/tutoriel-html-css)
     - exercice de création d'une page d'accueil d'une agence de voyage
         - [dépôt](https://github.com/gaetan-varlet/exercice-html-travel-agency)
-        - [page](https://gaetan-varlet.github.io/exercice-html-travel-agency/)
+        - [page Web](https://gaetan-varlet.github.io/exercice-html-travel-agency)
 
 - Tutoriel JavaScript
     - [fiches](https://github.com/gaetan-varlet/tutoriel-javascript)
-    - exercices de création du jeu du snake
-    
+    - exercice de création du jeu du snake (version avec webpack)
+        - [dépôt](https://github.com/gaetan-varlet/exercice-javascript-snake)
+        - [page Web](https://gaetan-varlet.github.io/exercice-javascript-snake)
+
 - [Tutoriel React-Redux](https://github.com/gaetan-varlet/tutoriel-react-redux)
 
-- [Formation API Rest](https://gaetan-varlet.github.io/formation-webservices)
+- Formation API Rest
     - [Dépôt](https://github.com/gaetan-varlet/formation-webservices)
+    - [Diaporama](https://gaetan-varlet.github.io/formation-webservices)
 
 ## Projets
 
