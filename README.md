@@ -15,6 +15,10 @@
         - [dépôt](https://github.com/gaetan-varlet/exercice-javascript-snake)
         - [page Web](https://gaetan-varlet.github.io/exercice-javascript-snake)
 
+- Tutoriel jQuery (TODO)
+
+- Tutoriel Bootstrap (TODO)
+
 - [Tutoriel React-Redux](https://github.com/gaetan-varlet/tutoriel-react-redux)
 
 - [Tutoriel Java](https://github.com/gaetan-varlet/tutoriel-java)
