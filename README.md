@@ -38,8 +38,8 @@
 
 
 - Formation API Rest
-    - [Dépôt](https://github.com/gaetan-varlet/formation-webservices)
-    - [Diaporama](https://gaetan-varlet.github.io/formation-webservices)
+    - [Dépôt](https://github.com/gaetan-varlet/formation-api-rest)
+    - [Diaporama]https://gaetan-varlet.github.io/formation-api-rest)
 
 ## Projets
 
