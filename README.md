@@ -28,7 +28,7 @@
 
 - [Tutoriel Java EE (DOING)](https://github.com/gaetan-varlet/tutoriel-javaee)
 
-- [Tutoriel Python (TODO)](https://github.com/gaetan-varlet/tutoriel-python)
+- [Tutoriel Python (DOING)](https://github.com/gaetan-varlet/tutoriel-python)
 
 - [Tutoriel SQL (DOING)](https://github.com/gaetan-varlet/tutoriel-sql)
 
