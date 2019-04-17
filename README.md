@@ -38,10 +38,13 @@
 
 - [Tutoriel Docker (DOING)](https://github.com/gaetan-varlet/tutoriel-docker)
 
+- [Tutoriel VS Code (DOING)](https://github.com/gaetan-varlet/tutoriel-vs-code)
 
 - Formation API Rest
     - [Dépôt](https://github.com/gaetan-varlet/formation-api-rest)
     - [Diaporama](https://gaetan-varlet.github.io/formation-api-rest)
+
+- [Formation Spring Data (TODO)](https://github.com/gaetan-varlet/formation-spring-data)
 
 ## Projets
 
