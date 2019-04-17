@@ -36,7 +36,7 @@
 
 - [Tutoriel Linux (DOING)](https://github.com/gaetan-varlet/tutoriel-linux)
 
-- [Tutoriel Docker (DOING)](https://github.com/gaetan-varlet/tutoriel-docker)
+- [Tutoriel Docker](https://github.com/gaetan-varlet/tutoriel-docker)
 
 - [Tutoriel VS Code (DOING)](https://github.com/gaetan-varlet/tutoriel-vs-code)
 
