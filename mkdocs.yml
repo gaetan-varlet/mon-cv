@@ -1,4 +1,3 @@
-site_name: Gaëtan Varlet
+site_name: GVarlet
 pages:
     - Sommaire: index.md
-# theme: readthedocs
