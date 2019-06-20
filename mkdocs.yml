@@ -1,3 +1,4 @@
-site_name: GVarlet
-pages:
-    - Sommaire: index.md
+site_name: Gaëtan Varlet
+nav:
+- Sommaire: index.md
+- Infos : infos.md

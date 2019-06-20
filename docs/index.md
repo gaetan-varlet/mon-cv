@@ -9,14 +9,7 @@
         - [dépôt](https://github.com/gaetan-varlet/exercice-html-travel-agency)
         - [page Web](https://gaetan-varlet.github.io/exercice-html-travel-agency)
 
-- Tutoriel JavaScript
-    - [fiches](https://github.com/gaetan-varlet/tutoriel-javascript)
-    - exercice de création du jeu du snake (version avec webpack)
-        - [dépôt](https://github.com/gaetan-varlet/exercice-javascript-snake)
-        - [page Web](https://gaetan-varlet.github.io/exercice-javascript-snake)
-    - exercice de création de l'application World Bucket List
-        - [dépôt](https://github.com/gaetan-varlet/exercice-javascript-world-bucket-list)
-        - [page Web](https://gaetan-varlet.github.io/exercice-javascript-world-bucket-list)
+- [Tutoriel JavaScript](https://gaetan-varlet.github.io/tutoriel-javascript)
 
 - Tutoriel jQuery (TODO)
 
@@ -34,7 +27,7 @@
 
 - [Tutoriel Git (DOING)](https://github.com/gaetan-varlet/tutoriel-git)
 
-- [Tutoriel Linux (DOING)](https://github.com/gaetan-varlet/tutoriel-linux)
+- [Tutoriel Linux (DOING)](https://gaetan-varlet.github.io/tutoriel-linux)
 
 - [Tutoriel Docker](https://github.com/gaetan-varlet/tutoriel-docker)
 
